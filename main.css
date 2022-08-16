@@ -1,0 +1,21 @@
+.nav-link{
+    color: #6841DB;
+}
+.nav-link.active{
+    font-weight: bold;
+}
+button{
+    background: #6841DB;
+    color: white;
+    border: 2px solid #6841DB;
+}
+button:hover{
+    background: white;
+    color: #6841DB;
+}
+form{
+    max-width: 450px;
+}
+.inputs{
+    border-color: #6841DB;
+}
